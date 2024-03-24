@@ -1,0 +1,251 @@
+ID,UmurPesakit,JantinaPesakit,MBITotal,BICAT,mRS,Umur,Jantina,Bangsa,Education,Relationship,Employment,Income,HealthProblem,TimeDaily,YearsAsCaregiver,Training,DepressionScore,D,AnxietyScore,A,StressScore,S,TotalQoL
+1,68,Lelaki,74,Sederhana (50-74),1 to 3,28,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,0,No,91
+2,68,Perempuan,92,Minima (91-99),1 to 3,39,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,2,No,96
+3,58,Lelaki,34,Maksima (25-49),1 to 3,54,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,lebih dari 5 tahun,No,3,No,1,No,1,No,94
+4,70,Lelaki,10,Sepenuhnya (0-24),4 to 5,22,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,8,Yes,0,No,0,No,68
+5,59,Lelaki,44,Maksima (25-49),4 to 5,60,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,8,Yes,12,Yes,60
+6,81,Perempuan,50,Sederhana (50-74),1 to 3,25,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,0,No,96
+7,58,Lelaki,98,Minima (91-99),1 to 3,55,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,1,No,4,No,75
+8,83,Perempuan,74,Sederhana (50-74),1 to 3,26,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,3,No,5,No,108
+9,71,Lelaki,44,Maksima (25-49),4 to 5,60,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,Yes,4,No,3,No,5,No,96
+10,65,Lelaki,24,Sepenuhnya (0-24),4 to 5,31,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,0,No,93
+11,65,Perempuan,70,Sederhana (50-74),1 to 3,65,Lelaki,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,2,No,0,No,95
+12,64,Perempuan,95,Minima (91-99),1 to 3,39,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,0,No,0,No,2,No,92
+13,64,Lelaki,8,Sepenuhnya (0-24),4 to 5,32,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,8,Yes,8,Yes,80
+14,68,Lelaki,25,Maksima (25-49),4 to 5,67,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,3,No,80
+15,83,Perempuan,76,Ringan (75-90),1 to 3,21,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,4,No,101
+16,54,Perempuan,97,Minima (91-99),1 to 3,26,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,5,No,74
+17,57,Lelaki,16,Sepenuhnya (0-24),4 to 5,53,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,Yes,5,No,2,No,0,No,73
+18,55,Lelaki,32,Maksima (25-49),1 to 3,50,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,5,No,2,No,3,No,98
+19,64,Perempuan,25,Maksima (25-49),4 to 5,24,Lelaki,Lain lain,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,0,No,3,No,5,No,54
+20,68,Perempuan,63,Sederhana (50-74),1 to 3,46,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,Lain lain,Yes,Kurang dari 3 jam,kurang dari 5 tahun,Yes,5,No,3,No,4,No,95
+21,68,Lelaki,24,Sepenuhnya (0-24),4 to 5,32,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,8,Yes,8,Yes,95
+22,70,Perempuan,10,Sepenuhnya (0-24),4 to 5,30,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,3,No,0,No,83
+23,42,Perempuan,95,Minima (91-99),4 to 5,62,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,5,No,81
+24,66,Perempuan,58,Sederhana (50-74),4 to 5,26,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,2,No,0,No,80
+25,58,Perempuan,10,Sepenuhnya (0-24),4 to 5,63,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,2,No,60
+26,82,Lelaki,90,Ringan (75-90),1 to 3,48,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,2,No,71
+27,72,Perempuan,29,Maksima (25-49),4 to 5,39,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,11,Yes,12,Yes,60
+28,64,Perempuan,33,Maksima (25-49),4 to 5,23,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,10,Yes,5,Yes,5,No,96
+29,60,Perempuan,0,Sepenuhnya (0-24),4 to 5,60,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,5,Yes,4,No,99
+30,69,Perempuan,15,Sepenuhnya (0-24),4 to 5,49,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,Yes,9,Yes,4,No,4,No,73
+31,70,Lelaki,85,Ringan (75-90),1 to 3,40,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,2,No,91
+32,52,Lelaki,0,Sepenuhnya (0-24),4 to 5,22,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,9,Yes,9,Yes,9,Yes,81
+33,68,Lelaki,69,Sederhana (50-74),4 to 5,18,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,5,No,5,Yes,0,No,90
+34,53,Perempuan,92,Ringan (75-90),1 to 3,21,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,2,No,1,No,101
+35,57,Perempuan,43,Maksima (25-49),4 to 5,25,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,4,No,3,No,86
+36,41,Lelaki,55,Sederhana (50-74),4 to 5,38,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,5,No,0,No,4,No,86
+37,77,Lelaki,97,Minima (91-99),1 to 3,38,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,3,No,4,No,2,No,108
+38,82,Perempuan,68,Sederhana (50-74),1 to 3,25,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,4,No,1,No,89
+39,72,Lelaki,25,Maksima (25-49),4 to 5,44,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,18,Yes,15,Yes,18,Yes,57
+40,83,Lelaki,84,Ringan (75-90),4 to 5,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,0,No,105
+41,54,Perempuan,0,Sepenuhnya (0-24),4 to 5,64,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,3,No,71
+42,54,Perempuan,60,Sederhana (50-74),1 to 3,27,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,5,Yes,2,No,90
+43,65,Perempuan,100,Minima (91-99),1 to 3,69,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,0,No,5,Yes,2,No,90
+44,55,Lelaki,33,Maksima (25-49),4 to 5,54,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,0,No,81
+45,72,Perempuan,83,Ringan (75-90),1 to 3,42,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,2,No,1,No,50
+46,75,Perempuan,50,Sederhana (50-74),1 to 3,36,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,2,No,59
+47,55,Perempuan,96,Minima (91-99),1 to 3,60,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,5,No,96
+48,40,Perempuan,92,Minima (91-99),1 to 3,39,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,2,No,96
+49,61,Lelaki,96,Minima (91-99),1 to 3,57,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,4,No,0,No,98
+50,55,Lelaki,46,Maksima (25-49),4 to 5,26,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,1,No,2,No,2,No,76
+51,43,Perempuan,54,Sederhana (50-74),1 to 3,41,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,1,No,4,No,4,No,107
+52,80,Lelaki,0,Sepenuhnya (0-24),4 to 5,40,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,6,Yes,4,No,74
+53,41,Lelaki,100,Minima (91-99),1 to 3,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,Yes,Kurang dari 3 jam,kurang dari 5 tahun,Yes,4,No,3,No,5,No,76
+54,80,Lelaki,100,Minima (91-99),1 to 3,60,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,lebih dari 5 tahun,No,4,No,3,No,3,No,79
+55,80,Perempuan,12,Sepenuhnya (0-24),4 to 5,60,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,7,Yes,5,No,69
+56,62,Perempuan,98,Minima (91-99),1 to 3,33,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,1,No,4,No,99
+57,68,Lelaki,100,Minima (91-99),1 to 3,63,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,lebih dari 5 tahun,No,3,No,0,No,4,No,92
+58,51,Perempuan,72,Sederhana (50-74),1 to 3,22,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,8,Yes,10,Yes,78
+59,61,Lelaki,83,Ringan (75-90),1 to 3,60,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,5,No,97
+60,76,Perempuan,88,Minima (91-99),1 to 3,69,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,5,No,98
+61,61,Perempuan,99,Minima (91-99),1 to 3,23,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,4,No,108
+62,73,Lelaki,96,Minima (91-99),1 to 3,60,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,3,No,5,No,91
+63,42,Lelaki,100,Minima (91-99),1 to 3,42,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,4,No,2,No,90
+64,65,Perempuan,0,Sepenuhnya (0-24),4 to 5,28,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,1,No,0,No,61
+65,60,Lelaki,0,Sepenuhnya (0-24),4 to 5,57,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,2,No,4,No,88
+66,60,Lelaki,50,Sederhana (50-74),4 to 5,21,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,0,No,108
+67,58,Lelaki,98,Minima (91-99),1 to 3,55,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,5,No,85
+68,42,Perempuan,23,Sepenuhnya (0-24),4 to 5,48,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,2,No,72
+69,54,Lelaki,34,Maksima (25-49),1 to 3,26,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,5,No,1,No,1,No,72
+70,67,Perempuan,25,Maksima (25-49),4 to 5,26,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,4,No,102
+71,68,Lelaki,50,Sepenuhnya (0-24),4 to 5,28,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,0,No,107
+72,66,Lelaki,22,Sepenuhnya (0-24),4 to 5,59,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,4,No,8,Yes,57
+73,62,Lelaki,95,Minima (91-99),1 to 3,50,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,3,No,3,No,94
+74,57,Lelaki,95,Minima (91-99),1 to 3,29,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,5,Yes,2,No,105
+75,74,Perempuan,90,Ringan (75-90),1 to 3,47,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,0,No,102
+76,82,Lelaki,40,Maksima (25-49),1 to 3,23,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,11,Yes,13,Yes,66
+77,72,Perempuan,58,Sederhana (50-74),4 to 5,45,Lelaki,Lain lain,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,1,No,93
+78,37,Lelaki,85,Ringan (75-90),1 to 3,61,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,0,No,4,No,0,No,85
+79,69,Lelaki,57,Sederhana (50-74),4 to 5,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,10,Yes,11,Yes,77
+80,82,Lelaki,88,Ringan (75-90),4 to 5,53,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,1,No,1,No,99
+81,59,Perempuan,95,Ringan (75-90),1 to 3,38,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,8,Yes,99
+82,77,Lelaki,98,Minima (91-99),1 to 3,59,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,lebih dari 5 tahun,No,4,No,1,No,5,No,98
+83,56,Lelaki,2,Sepenuhnya (0-24),4 to 5,29,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,3,No,89
+84,65,Perempuan,0,Sepenuhnya (0-24),4 to 5,27,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,0,No,0,No,5,No,101
+85,56,Perempuan,78,Ringan (75-90),1 to 3,58,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,1,No,5,No,85
+86,63,Perempuan,10,Sepenuhnya (0-24),4 to 5,30,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,9,Yes,3,No,4,No,67
+87,70,Lelaki,95,Minima (91-99),1 to 3,31,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,3,No,108
+88,69,Perempuan,96,Minima (91-99),1 to 3,42,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,3,No,5,No,96
+89,57,Lelaki,24,Sepenuhnya (0-24),4 to 5,54,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,5,No,84
+90,55,Lelaki,74,Sederhana (50-74),1 to 3,19,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,5,Yes,9,Yes,84
+91,65,Perempuan,2,Sepenuhnya (0-24),4 to 5,24,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,2,No,2,No,59
+92,58,Perempuan,88,Ringan (75-90),1 to 3,19,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,2,No,0,No,0,No,86
+93,40,Lelaki,100,Minima (91-99),1 to 3,33,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,0,No,102
+94,74,Perempuan,94,Ringan (75-90),1 to 3,31,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,0,No,5,Yes,1,No,99
+95,42,Perempuan,32,Maksima (25-49),4 to 5,45,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,Yes,1,No,2,No,4,No,69
+96,51,Lelaki,89,Ringan (75-90),1 to 3,48,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,1,No,102
+97,64,Lelaki,10,Sepenuhnya (0-24),4 to 5,33,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,Yes,12,Yes,11,Yes,12,Yes,76
+98,76,Lelaki,26,Maksima (25-49),4 to 5,50,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,4,No,49
+99,73,Lelaki,100,Minima (91-99),4 to 5,53,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,2,No,9,Yes,4,No,77
+100,74,Perempuan,87,Ringan (75-90),1 to 3,30,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,8,Yes,88
+101,69,Lelaki,92,Minima (91-99),1 to 3,63,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,1,No,93
+102,63,Lelaki,98,Minima (91-99),1 to 3,57,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,3,No,88
+103,44,Perempuan,87,Ringan (75-90),1 to 3,70,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,0,No,95
+104,64,Lelaki,96,Minima (91-99),4 to 5,26,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,4,No,105
+105,72,Lelaki,44,Maksima (25-49),4 to 5,69,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,2,No,97
+106,71,Perempuan,0,Sepenuhnya (0-24),4 to 5,68,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,9,Yes,2,No,77
+107,67,Perempuan,23,Sepenuhnya (0-24),1 to 3,39,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,1,No,4,No,67
+108,56,Lelaki,32,Maksima (25-49),4 to 5,20,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,5,Yes,8,Yes,90
+109,64,Perempuan,82,Ringan (75-90),1 to 3,22,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,4,No,5,No,98
+110,66,Perempuan,10,Sepenuhnya (0-24),4 to 5,62,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,8,Yes,4,No,2,No,45
+111,52,Perempuan,95,Minima (91-99),1 to 3,22,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,8,Yes,68
+112,71,Lelaki,100,Minima (91-99),1 to 3,66,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,lebih dari 5 tahun,No,4,No,4,No,4,No,91
+113,62,Lelaki,14,Sepenuhnya (0-24),4 to 5,40,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,1,No,90
+114,72,Perempuan,34,Maksima (25-49),4 to 5,42,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,2,No,0,No,108
+115,59,Perempuan,98,Minima (91-99),1 to 3,30,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,0,No,97
+116,68,Perempuan,73,Sederhana (50-74),4 to 5,44,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,6,Yes,1,No,92
+117,61,Perempuan,100,Minima (91-99),1 to 3,60,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,0,No,99
+118,61,Lelaki,0,Sepenuhnya (0-24),4 to 5,30,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,Yes,8,Yes,8,Yes,9,Yes,79
+119,60,Lelaki,94,Minima (91-99),1 to 3,27,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,5,No,2,No,2,No,108
+120,58,Lelaki,54,Sederhana (50-74),1 to 3,27,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,4,No,2,No,71
+121,83,Lelaki,100,Minima (91-99),1 to 3,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,3,No,91
+122,65,Lelaki,22,Sepenuhnya (0-24),4 to 5,59,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,2,No,4,No,80
+123,84,Lelaki,81,Ringan (75-90),4 to 5,56,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,Yes,1,No,2,No,4,No,69
+124,58,Perempuan,86,Ringan (75-90),1 to 3,25,Perempuan,Lain lain,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,0,No,108
+125,50,Lelaki,98,Minima (91-99),1 to 3,53,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,4,No,107
+126,66,Lelaki,77,Ringan (75-90),4 to 5,57,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,0,No,99
+127,44,Perempuan,43,Maksima (25-49),4 to 5,21,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,1,No,3,No,93
+128,62,Lelaki,62,Sederhana (50-74),1 to 3,62,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,0,No,2,No,97
+129,80,Lelaki,98,Minima (91-99),4 to 5,66,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,3,No,88
+130,76,Lelaki,10,Sepenuhnya (0-24),4 to 5,48,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,8,Yes,9,Yes,3,No,68
+131,82,Perempuan,0,Sepenuhnya (0-24),4 to 5,57,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,4,No,93
+132,69,Lelaki,90,Ringan (75-90),1 to 3,35,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,1,No,95
+133,69,Lelaki,65,Sederhana (50-74),4 to 5,38,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,5,Yes,4,No,106
+134,68,Lelaki,68,Sederhana (50-74),1 to 3,34,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,2,No,99
+135,55,Lelaki,33,Maksima (25-49),4 to 5,57,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,1,No,2,No,98
+136,60,Perempuan,96,Minima (91-99),4 to 5,24,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,11,Yes,79
+137,68,Perempuan,37,Maksima (25-49),4 to 5,69,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,2,No,79
+138,65,Perempuan,22,Sepenuhnya (0-24),4 to 5,42,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,0,No,100
+139,50,Lelaki,8,Sepenuhnya (0-24),4 to 5,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,13,Yes,18,Yes,1,No,49
+140,73,Perempuan,32,Maksima (25-49),4 to 5,34,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,5,Yes,4,No,102
+141,72,Perempuan,79,Ringan (75-90),1 to 3,70,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,3,No,1,No,90
+142,80,Lelaki,92,Minima (91-99),1 to 3,22,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,3,No,5,No,95
+143,60,Lelaki,10,Sepenuhnya (0-24),4 to 5,32,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,6,Yes,0,No,2,No,74
+144,57,Lelaki,95,Minima (91-99),1 to 3,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,1,No,4,No,4,No,108
+145,80,Lelaki,10,Sepenuhnya (0-24),4 to 5,48,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,13,Yes,10,Yes,1,No,60
+146,57,Perempuan,66,Sederhana (50-74),4 to 5,42,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,0,No,101
+147,67,Perempuan,90,Ringan (75-90),1 to 3,67,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,0,No,98
+148,82,Perempuan,98,Minima (91-99),1 to 3,60,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,2,No,89
+149,59,Lelaki,15,Sepenuhnya (0-24),4 to 5,43,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,17,Yes,12,Yes,17,Yes,66
+150,56,Lelaki,24,Sepenuhnya (0-24),4 to 5,50,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,11,Yes,1,No,54
+151,77,Perempuan,83,Ringan (75-90),1 to 3,50,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,lebih dari 5 tahun,No,1,No,3,No,3,No,69
+152,82,Lelaki,8,Sepenuhnya (0-24),4 to 5,59,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,3,No,4,No,1,No,51
+153,68,Lelaki,98,Minima (91-99),1 to 3,59,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,2,No,0,No,101
+154,58,Perempuan,68,Sederhana (50-74),4 to 5,31,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,2,No,5,No,97
+155,67,Perempuan,32,Sepenuhnya (0-24),1 to 3,23,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,5,No,4,No,3,No,76
+156,62,Lelaki,0,Sepenuhnya (0-24),4 to 5,38,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,18,Yes,15,Yes,16,Yes,65
+157,62,Perempuan,100,Minima (91-99),1 to 3,34,Perempuan,Lain lain,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,5,No,105
+158,63,Lelaki,24,Sepenuhnya (0-24),4 to 5,63,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,0,No,4,No,69
+159,74,Perempuan,72,Sederhana (50-74),4 to 5,51,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,7,Yes,2,No,88
+160,50,Lelaki,6,Sepenuhnya (0-24),4 to 5,58,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,4,No,4,No,82
+161,66,Lelaki,10,Sepenuhnya (0-24),4 to 5,39,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,6,Yes,0,No,5,No,78
+162,55,Perempuan,37,Maksima (25-49),4 to 5,30,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,2,No,63
+163,66,Lelaki,31,Maksima (25-49),4 to 5,50,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,2,No,95
+164,61,Perempuan,14,Sepenuhnya (0-24),4 to 5,25,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,2,No,89
+165,68,Lelaki,0,Sepenuhnya (0-24),4 to 5,29,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,9,Yes,1,No,72
+166,68,Lelaki,17,Sepenuhnya (0-24),4 to 5,36,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,5,No,88
+167,68,Lelaki,47,Maksima (25-49),4 to 5,19,Lelaki,Lain lain,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,0,No,75
+168,65,Lelaki,80,Ringan (75-90),1 to 3,58,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,4,No,2,No,100
+169,80,Lelaki,65,Sederhana (50-74),1 to 3,57,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,2,No,3,No,68
+170,61,Perempuan,76,Ringan (75-90),1 to 3,63,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,0,No,98
+171,73,Perempuan,65,Sederhana (50-74),1 to 3,32,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,3,No,2,No,2,No,97
+172,82,Lelaki,36,Maksima (25-49),4 to 5,70,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,0,No,4,No,83
+173,54,Perempuan,0,Sepenuhnya (0-24),4 to 5,54,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,12,Yes,11,Yes,14,Yes,70
+174,68,Lelaki,24,Sepenuhnya (0-24),4 to 5,65,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,2,No,61
+175,72,Lelaki,88,Ringan (75-90),1 to 3,54,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,5,No,105
+176,63,Lelaki,22,Sepenuhnya (0-24),4 to 5,26,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,11,Yes,1,No,53
+177,60,Lelaki,91,Minima (91-99),1 to 3,39,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,3,No,5,Yes,1,No,105
+178,70,Perempuan,15,Sepenuhnya (0-24),4 to 5,25,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,9,Yes,2,No,1,No,52
+179,51,Lelaki,37,Maksima (25-49),4 to 5,43,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,1,No,4,No,81
+180,57,Lelaki,17,Sepenuhnya (0-24),4 to 5,53,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,12,Yes,3,No,11,Yes,65
+181,68,Lelaki,0,Sepenuhnya (0-24),4 to 5,24,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,7,Yes,10,Yes,12,Yes,48
+182,68,Lelaki,10,Sepenuhnya (0-24),4 to 5,37,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,8,Yes,11,Yes,12,Yes,52
+183,66,Lelaki,100,Minima (91-99),1 to 3,61,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Kurang dari 3 jam,kurang dari 5 tahun,No,6,Yes,6,Yes,8,Yes,94
+184,75,Perempuan,56,Sederhana (50-74),1 to 3,46,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,4,No,2,No,91
+185,80,Perempuan,70,Sederhana (50-74),4 to 5,59,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,0,No,0,No,89
+186,59,Perempuan,64,Sederhana (50-74),1 to 3,25,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,5,No,2,No,4,No,97
+187,55,Lelaki,91,Minima (91-99),1 to 3,26,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,6,Yes,9,Yes,10,Yes,76
+188,74,Perempuan,55,Sederhana (50-74),1 to 3,32,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,8,Yes,6,Yes,4,No,90
+189,73,Perempuan,10,Sepenuhnya (0-24),4 to 5,49,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,3,No,94
+190,48,Perempuan,100,Minima (91-99),1 to 3,40,Lelaki,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,4,No,77
+191,58,Lelaki,10,Sepenuhnya (0-24),4 to 5,25,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,11,Yes,10,Yes,12,Yes,68
+192,67,Perempuan,98,Minima (91-99),4 to 5,29,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,4,No,96
+193,81,Lelaki,98,Minima (91-99),1 to 3,42,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,lebih dari 5 tahun,No,0,No,3,No,0,No,93
+194,74,Lelaki,19,Sepenuhnya (0-24),4 to 5,43,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,9,Yes,10,Yes,68
+195,44,Lelaki,100,Minima (91-99),1 to 3,38,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,5,Yes,3,No,105
+196,77,Perempuan,87,Ringan (75-90),1 to 3,30,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,6,Yes,0,No,8,Yes,80
+197,65,Perempuan,0,Sepenuhnya (0-24),4 to 5,33,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,2,No,66
+198,68,Perempuan,24,Sepenuhnya (0-24),4 to 5,30,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,4,No,4,No,96
+199,78,Perempuan,90,Ringan (75-90),1 to 3,44,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,3,No,4,No,3,No,108
+200,79,Perempuan,82,Ringan (75-90),1 to 3,60,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Kurang dari 3 jam,lebih dari 5 tahun,No,0,No,2,No,4,No,97
+201,55,Perempuan,0,Sepenuhnya (0-24),4 to 5,21,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,5,Yes,1,No,94
+202,73,Perempuan,40,Maksima (25-49),4 to 5,18,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,4,No,4,No,4,No,67
+203,50,Lelaki,71,Sederhana (50-74),1 to 3,54,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,5,No,97
+204,67,Lelaki,17,Sepenuhnya (0-24),4 to 5,25,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,6,Yes,1,No,2,No,79
+205,36,Lelaki,29,Maksima (25-49),4 to 5,44,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,10,Yes,59
+206,43,Perempuan,34,Maksima (25-49),4 to 5,51,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,6,Yes,4,No,83
+207,58,Lelaki,1,Sepenuhnya (0-24),4 to 5,26,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,1,No,10,Yes,78
+208,46,Perempuan,90,Ringan (75-90),1 to 3,20,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,8,Yes,97
+209,62,Lelaki,14,Sepenuhnya (0-24),4 to 5,26,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,3,No,1,No,96
+210,66,Lelaki,38,Maksima (25-49),1 to 3,63,Perempuan,Lain lain,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,2,No,79
+211,62,Perempuan,95,Minima (91-99),1 to 3,27,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,1,No,5,No,86
+212,82,Lelaki,8,Sepenuhnya (0-24),4 to 5,40,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,3,No,73
+213,69,Perempuan,86,Ringan (75-90),1 to 3,32,Perempuan,Lain lain,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,2,No,3,No,88
+214,73,Perempuan,98,Sederhana (50-74),1 to 3,36,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,4,No,3,No,104
+215,67,Lelaki,99,Ringan (75-90),1 to 3,40,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,4,No,99
+216,62,Lelaki,5,Sepenuhnya (0-24),4 to 5,44,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,6,Yes,4,No,85
+217,60,Lelaki,95,Minima (91-99),4 to 5,35,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,3,No,3,No,76
+218,73,Lelaki,20,Sepenuhnya (0-24),4 to 5,42,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,3,No,2,No,80
+219,60,Perempuan,50,Sederhana (50-74),4 to 5,32,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,13,Yes,15,Yes,18,Yes,45
+220,51,Perempuan,79,Ringan (75-90),4 to 5,27,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,2,No,5,No,100
+221,56,Perempuan,72,Sederhana (50-74),1 to 3,51,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,1,No,2,No,94
+222,78,Perempuan,55,Sederhana (50-74),4 to 5,25,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,lebih dari 5 tahun,No,9,Yes,8,Yes,10,Yes,78
+223,58,Perempuan,57,Sederhana (50-74),1 to 3,36,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,Yes,2,No,0,No,1,No,94
+224,61,Perempuan,100,Minima (91-99),1 to 3,64,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,2,No,4,No,85
+225,58,Perempuan,79,Ringan (75-90),1 to 3,36,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,3,No,4,No,93
+226,63,Lelaki,53,Sederhana (50-74),1 to 3,61,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,0,No,1,No,99
+227,68,Perempuan,98,Minima (91-99),1 to 3,48,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,lebih dari 5 tahun,No,4,No,0,No,4,No,98
+228,44,Perempuan,37,Maksima (25-49),4 to 5,52,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,1,No,6,Yes,3,No,80
+229,74,Perempuan,3,Sepenuhnya (0-24),4 to 5,34,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,6,Yes,7,Yes,4,No,80
+230,64,Lelaki,8,Sepenuhnya (0-24),4 to 5,62,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,2,No,3,No,92
+231,62,Lelaki,17,Sepenuhnya (0-24),4 to 5,32,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,3,No,1,No,91
+232,57,Lelaki,15,Sepenuhnya (0-24),4 to 5,45,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,1,No,2,No,98
+233,76,Lelaki,5,Sepenuhnya (0-24),4 to 5,44,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,0,No,4,No,70
+234,63,Perempuan,10,Sepenuhnya (0-24),4 to 5,29,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,2,No,4,No,93
+235,81,Perempuan,72,Sederhana (50-74),4 to 5,58,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,Yes,2,No,6,Yes,3,No,88
+236,44,Lelaki,1,Sepenuhnya (0-24),4 to 5,25,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,0,No,0,No,4,No,100
+237,82,Lelaki,48,Maksima (25-49),1 to 3,58,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,Lain lain,Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,4,No,1,No,88
+238,58,Perempuan,98,Minima (91-99),1 to 3,65,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,1,No,89
+239,64,Perempuan,91,Minima (91-99),4 to 5,62,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),Yes,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,3,No,5,No,98
+240,60,Perempuan,30,Maksima (25-49),4 to 5,56,Lelaki,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,12,Yes,0,No,1,No,60
+241,48,Lelaki,94,Minima (91-99),1 to 3,39,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,3,No,6,Yes,5,No,88
+242,78,Perempuan,79,Ringan (75-90),1 to 3,28,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,5,No,0,No,1,No,60
+243,53,Perempuan,44,Maksima (25-49),1 to 3,31,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Bekerja,Lain lain,No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,4,No,5,No,100
+244,55,Lelaki,69,Sederhana (50-74),4 to 5,29,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,Yes,3,No,3,No,5,No,105
+245,42,Lelaki,82,Ringan (75-90),1 to 3,31,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,1,No,2,No,1,No,80
+246,58,Lelaki,12,Sepenuhnya (0-24),4 to 5,23,Perempuan,Melayu,STPM/ Matrikulasi/ Ijazah/ Sarjana/ PhD,Lain-lain,Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,4,No,2,No,5,No,93
+247,46,Perempuan,80,Ringan (75-90),1 to 3,40,Lelaki,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,3,No,2,No,3,No,90
+248,82,Lelaki,60,Sederhana (50-74),1 to 3,64,Perempuan,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Tidak Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,lebih dari 5 tahun,No,0,No,3,No,3,No,86
+249,40,Perempuan,100,Minima (91-99),1 to 3,41,Lelaki,Melayu,Sehingga sekolah menengah,Pasangan (suami/isteri),Bekerja,B40 (<RM4850),No,Kurang dari 3 jam,kurang dari 5 tahun,No,5,No,1,No,0,No,82
+250,68,Lelaki,50,Sederhana (50-74),4 to 5,35,Perempuan,Melayu,Sehingga sekolah menengah,Lain-lain,Bekerja,B40 (<RM4850),No,Lebih dari 3 jam,kurang dari 5 tahun,No,2,No,7,Yes,3,No,82
